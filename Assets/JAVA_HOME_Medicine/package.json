@@ -1,7 +1,7 @@
 {
   "name": "com.navimesh.editor.java_home_medicine",
   "version": "1.0.0",
-  "displayName": "JAVA_HOME Medicine",
+  "displayName": "Navimesh/JAVA_HOME Medicine",
   "description": "Fix lỗi JAVA_HOME bị sai path",
   "unity": "2020.3",
   "unityRelease": "6f1",
@@ -16,7 +16,7 @@
     "java home"
   ],
   "author": {
-    "name": "Ha Nguyen",
+    "name": "Navimesh/JAVA_HOME",
     "email": "unity@hanguyen.com",
     "url": "https://www.unity3d.com"
   }
