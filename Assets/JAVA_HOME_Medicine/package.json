@@ -4,7 +4,7 @@
   "displayName": "JAVA_HOME Medicine",
   "description": "Fix lỗi JAVA_HOME bị sai path",
   "unity": "2020.3",
-  "unityRelease": "6f1",
+  "unityRelease": "15f2",
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
