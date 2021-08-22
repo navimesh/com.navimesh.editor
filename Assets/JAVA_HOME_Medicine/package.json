@@ -1,6 +1,6 @@
 {
   "name": "com.navimesh.editor.java_home_medicine",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "displayName": "JAVA_HOME Medicine",
   "description": "Fix lỗi JAVA_HOME bị sai path",
   "unity": "2020.3",
